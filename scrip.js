@@ -1,11 +1,13 @@
 const messages = [
-    "quiero seguir conmigo, no importa si solo eres alejita y ya ",
+    "quiero seguir contigo, no importa si solo eres tu alejita y ya ",
     "eres mi chat diario sabes",
     "extraño nuestras conversaciones , y especialmente a ti",
-    "aunque no creas , no quiero abrumarte ",
-    "tqm un monto , y siempre estpy aqui",
-    "a mi me gustas hablar contigo, y no quiero aburmarte",
-    "alejita hablame, solo quiero saber si estas bien , y darte el amor psoible",
+    "aunque no creas , no quiero abrumarte , lo sabes ",
+    "tqm un monton , y siempre estoy aqui",
+    "a mi me gusta hablar contigo y mucho , si?",
+    "sigue aqui asi sea que solo hablemos poco , no quiero ser solo alguien mas en tu vida",
+    "solo quiero que me hables alejita y que seas tu y no importa si eres mi amiga, si?",
+    "alejita hablame, solo quiero saber si estas bien , y darte todo el amor psoible",
     "esto es por ser tú , y no importa si no recibes mi amor, con que estes aqui , perfecto"
 ];
 
